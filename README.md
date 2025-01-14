@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemon-207&label=Profile%20views&color=0e75b6&style=flat" alt="lemon-207" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <h3 align="left">🔭 I’m currently doing an undergraduate degree in B. Tech Electronics and Computer Engineering at VIT Chennai.</h3>
 <h3 align="left">👀 I have a very deep passion towards learning about computer programming and anything related to it makes me excited and pumped!</h3>
 <h3 align="left">🤝 I’m looking for help with learning programming as I'm just a beginner with high future hopes! I want to learn more about the languages that are used in app development and many important purposes like ethical hacking!</h3>
@@ -11,6 +10,8 @@
 <h3 align="left">📈 My future plans are to cultivate more knowledge and be proficient in multiple languages in order to adapt to the industrial needs! Hoping to learn about web development and game development!</h3>
 <h3 align="left">📫 Go to my profile for connecting with me!</h3>
 <h3 align="left">⚡ Fun fact: I enjoy coding difficult problems even though they split my head apart! I wonder if this is what they call pure love for coding? :D</h3>
+
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://x.com/lemon_juice_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lemon_juice_1" height="30" width="40" /></a>

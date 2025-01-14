@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakash Hariram</h1>
 <h3 align="center">An enthusiastic and disciplined learner with a burning passion towards learning computer programming. Solving tough brain fuming questions gets me excited!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemon-207&label=Profile%20views&color=0e75b6&style=flat" alt="lemon-207" /> </p>
-
 <h3 align="left">About me:</h3>
 <h3 align="left">🔭 I’m currently doing an undergraduate degree in B. Tech Electronics and Computer Engineering at VIT Chennai.</h3>
 <h3 align="left">👀 I have a very deep passion towards learning about computer programming and anything related to it makes me excited and pumped!</h3>
